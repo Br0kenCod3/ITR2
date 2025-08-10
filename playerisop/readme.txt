@@ -1,3 +1,7 @@
+--removed not to avoid problems with author of similar mods
+
+
+
 13.7
 Tracer ammo hits harder
 Shotgun shells are not useless
